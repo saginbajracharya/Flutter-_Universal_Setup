@@ -1,0 +1,4 @@
+/Users/macmini2/Documents/PROJECTS/R&D/BASE_APPS/FlutterUniversalSetup
+/Users/macmini2/Documents/PROJECTS/R&D/BASE_APPS/base_app_3271
+/Users/macmini2/Documents/PROJECTS/R&D
+/Users/macmini2/Documents/FRAMEWORKS/flutter
