@@ -33,9 +33,9 @@
 #   2. Check for the contents in this directory to verify the script exists:
 #      ls
 #   3. Make the script executable:
-#      chmod +x universal_flutter_app_setup.sh
+#      chmod +x universal_flutter_app_setup_v2.sh
 #   4. Run the script:
-#      ./universal_flutter_app_setup.sh
+#      ./universal_flutter_app_setup_v2.sh
 #
 # Notes:
 # - Ensure you have Flutter installed and added to your system PATH.
